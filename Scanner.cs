@@ -80,10 +80,8 @@ public class Scanner
                     while ((peek() != '*' && peekNext() != '/') && !isAtEnd())
                     {
                         if (peek() == '\n') line++;
-                        // Console.WriteLine("1peek() == {0} 1peekNext() == {1}", peek(), peekNext());
                         advance();
                     }
-                    // Console.WriteLine("peek() == {0} peekNext() == {1}", peek(), peekNext());
                     current += 2;
                 }
                 else
