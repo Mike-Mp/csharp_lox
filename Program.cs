@@ -11,7 +11,7 @@
         }
         else if (args.Length == 1)
         {
-            runFile(args[1]);
+            runFile(args[0]);
         }
         else if (args.Length > 1)
         {
@@ -52,8 +52,8 @@
             System.Environment.Exit(1);
         }
 
-        for (int i = 0; i < tokens.Count; i++ ) {
-            Console.WriteLine(tokens[i].type + " " + tokens[i].lexeme);
+        for (int i = 0; i < tokens.Count; i++) {
+            Console.WriteLine(tokens[i].toString());
         }
     }
 
