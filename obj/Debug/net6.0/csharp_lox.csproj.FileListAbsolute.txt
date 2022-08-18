@@ -1,0 +1,15 @@
+C:\Users\AndkoUser\Documents\pers\csharp_lox\obj\Debug\net6.0\csharp_lox.csproj.AssemblyReference.cache
+C:\Users\AndkoUser\Documents\pers\csharp_lox\obj\Debug\net6.0\csharp_lox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AndkoUser\Documents\pers\csharp_lox\obj\Debug\net6.0\csharp_lox.AssemblyInfoInputs.cache
+C:\Users\AndkoUser\Documents\pers\csharp_lox\obj\Debug\net6.0\csharp_lox.AssemblyInfo.cs
+C:\Users\AndkoUser\Documents\pers\csharp_lox\obj\Debug\net6.0\csharp_lox.csproj.CoreCompileInputs.cache
+C:\Users\AndkoUser\Documents\pers\csharp_lox\bin\Debug\net6.0\csharp_lox.exe
+C:\Users\AndkoUser\Documents\pers\csharp_lox\bin\Debug\net6.0\csharp_lox.deps.json
+C:\Users\AndkoUser\Documents\pers\csharp_lox\bin\Debug\net6.0\csharp_lox.runtimeconfig.json
+C:\Users\AndkoUser\Documents\pers\csharp_lox\bin\Debug\net6.0\csharp_lox.dll
+C:\Users\AndkoUser\Documents\pers\csharp_lox\bin\Debug\net6.0\csharp_lox.pdb
+C:\Users\AndkoUser\Documents\pers\csharp_lox\obj\Debug\net6.0\csharp_lox.dll
+C:\Users\AndkoUser\Documents\pers\csharp_lox\obj\Debug\net6.0\refint\csharp_lox.dll
+C:\Users\AndkoUser\Documents\pers\csharp_lox\obj\Debug\net6.0\csharp_lox.pdb
+C:\Users\AndkoUser\Documents\pers\csharp_lox\obj\Debug\net6.0\csharp_lox.genruntimeconfig.cache
+C:\Users\AndkoUser\Documents\pers\csharp_lox\obj\Debug\net6.0\ref\csharp_lox.dll
